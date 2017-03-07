@@ -1,7 +1,7 @@
 var handleDataTableButtons = function () {
     0 !== $("#datatable-buttons").length && $("#datatable-buttons").DataTable({
 		"ajax": {
-            "url": "http://greektv.upg.gr/api/?type=greekchannels",
+            "url": "/?type=greekchannels",
             "dataSrc": "data"
 
         },

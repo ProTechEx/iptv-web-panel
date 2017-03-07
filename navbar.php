@@ -44,21 +44,21 @@
 
                 <!--- Sidemenu -->
                 <div id="sidebar-menu">
-              
+
                     <ul>
                       <li class="text-muted menu-title">Navigation</li>
 
 
                         <li>
-                            <a href="/admin/?thepath=greekchannels" class="waves-effect"><i class="zmdi zmdi-view-dashboard"></i> <span> Greek Channels </span> </a>
+                            <a href="/?thepath=greekchannels" class="waves-effect"><i class="zmdi zmdi-view-dashboard"></i> <span> Greek Channels </span> </a>
                         </li>
 
                         <li>
-                            <a href="/admin/?thepath=streamurls" class="waves-effect"><i class="zmdi zmdi-view-dashboard"></i> <span> Stream URIS </span> </a>
+                            <a href="/?thepath=streamurls" class="waves-effect"><i class="zmdi zmdi-view-dashboard"></i> <span> Stream URIS </span> </a>
                         </li>
 
                         <li>
-                            <a href="/admin/?thepath=platformapi" class="waves-effect"><i class="zmdi zmdi-view-dashboard"></i> <span> Platform API </span> </a>
+                            <a href="/?thepath=platformapi" class="waves-effect"><i class="zmdi zmdi-view-dashboard"></i> <span> Platform API </span> </a>
                         </li>
 
 
